@@ -23,6 +23,6 @@
     - Prints the text I want to screen
 
 ## Attributions
-[Cannot read property 'addEventListener' of null](https://www.youtube.com/watch?v=Dl5ddgWkJlk)
+- [Cannot read property 'addEventListener' of null](https://www.youtube.com/watch?v=Dl5ddgWkJlk)
 - [w3schools addEventListener](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
-[w3schools querySelector](https://www.w3schools.com/jsref/met_document_queryselector.asp)
+- [w3schools querySelector](https://www.w3schools.com/jsref/met_document_queryselector.asp)
